@@ -38,6 +38,10 @@ Status | Year | Course | Tutor
 
 ## Useful resources
 
+### General
+
+* [w3school](https://www.w3schools.com)
+
 ### GIT
 
 * [Github](https://guides.github.com/)
