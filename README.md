@@ -47,6 +47,7 @@ Status | Year | Course | Tutor
 * [Github](https://guides.github.com/)
 * [GitBook](https://git-scm.com/book/en/v2)
 * [MarkDown Guide](https://www.markdownguide.org/basic-syntax)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
 ### Csharp
 
