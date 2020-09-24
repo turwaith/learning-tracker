@@ -22,6 +22,7 @@ Git | ✔ | | |
 
 Status | Year | Course | Tutor
 :---: | :---: | --- | ---:
+⚙| Sep 2020 | [SoloLearn C# course](https://www.sololearn.com/Course/CSharp/) | [Sololearn](https://www.sololearn.com/)
 ⚙| Sep 2020 | [C# Sharp Programming Exercises, Practice, Solution](https://www.w3resource.com/csharp-exercises/) | [w3resource](https://www.w3resource.com/)
 ⚙| Sep 2020 | [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/en-us/learn/paths/collaborate-markdown-github-pages/) | [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 ⚙| Sep 2020 | [Introduction to version control with Git](https://docs.microsoft.com/fr-fr/learn/paths/intro-to-vc-git/) | [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
@@ -44,6 +45,7 @@ Status | Year | Course | Tutor
 
 * [w3school](https://www.w3schools.com)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+* [SoloLearn](https://www.sololearn.com/)
 
 ### Git
 
