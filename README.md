@@ -58,6 +58,8 @@ Status | Year | Course | Tutor
 ### Csharp
 
 * [Csharp Doc](https://docs.microsoft.com/en-us/)
+* [Les threads en c#](https://emerica.developpez.com/csharp/threads/)
+* [Thread Class](https://docs.microsoft.com/fr-fr/dotnet/api/system.threading.thread?view=netcore-3.1)
 
 ### Exercices
 
