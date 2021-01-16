@@ -22,6 +22,7 @@ Git | ✔ | | |
 
 Status | Year | Course | Tutor
 :---: | :---: | --- | ---:
+✔| Jan 2021 | [Débutez la programmation avec JavaScript](https://www.technocite.be/index.php/fr/component/detailsform/?form=1345) | [Technocite](https://www.technocite.be)
 ⚙|Dec 2020 | [C# Sharp Basic Algorithm Exercises](https://www.w3resource.com/csharp-exercises/basic-algo/index.php) | [w3resource](https://www.w3resource.com/)
 ✔|Dec 2020 | [C# Sharp Basic Exercises](https://www.w3resource.com/csharp-exercises/basic/index.php) | [w3resource](https://www.w3resource.com/)
 ✔| Nov 2020 | [L'essentiel de C# 7](https://www.linkedin.com/learning/l-essentiel-de-c-sharp-7-2?originalSubdomain=fr) | [Linkedin Learning](https://www.linkedin.com/learning/)
