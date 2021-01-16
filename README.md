@@ -22,7 +22,9 @@ Git | ✔ | | |
 
 Status | Year | Course | Tutor
 :---: | :---: | --- | ---:
-⚙| Oct 2020 | [L'essentiel de C# 7](https://www.linkedin.com/learning/l-essentiel-de-c-sharp-7-2?originalSubdomain=fr) | [Linkedin Learning](https://www.linkedin.com/learning/)
+⚙|Dec 2020 | [C# Sharp Basic Algorithm Exercises](https://www.w3resource.com/csharp-exercises/basic-algo/index.php) | [w3resource](https://www.w3resource.com/)
+✔|Dec 2020 | [C# Sharp Basic Exercises](https://www.w3resource.com/csharp-exercises/basic/index.php) | [w3resource](https://www.w3resource.com/)
+✔| Nov 2020 | [L'essentiel de C# 7](https://www.linkedin.com/learning/l-essentiel-de-c-sharp-7-2?originalSubdomain=fr) | [Linkedin Learning](https://www.linkedin.com/learning/)
 ⚙| Oct 2020 | [SoloLearn C# course](https://www.sololearn.com/Course/CSharp/) | [Sololearn](https://www.sololearn.com/)
 ✔| Oct 2020 | [w3resource C# Sharp Programming Exercises - Basic](https://www.w3resource.com/csharp-exercises/) | [w3resource](https://www.w3resource.com/)
 ⚙| Oct 2020 | [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/en-us/learn/paths/collaborate-markdown-github-pages/) | [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
