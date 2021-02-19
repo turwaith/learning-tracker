@@ -22,6 +22,10 @@ Git | ✔ | | |
 
 Status | Year | Course | Tutor
 :---: | :---: | --- | ---:
+⚙| Feb 2021 | [AJAX Tutorial](https://www.w3schools.com/js/js_ajax_intro.asp) | [w3schools](https://www.w3schools.com)
+⚙| Feb 2021 | [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp) | [w3schools](https://www.w3schools.com)
+⚙| Feb 2021 | [Angular Tutorial](https://www.w3schools.com/angular/default.asp) | [w3schools](https://www.w3schools.com)
+⚙| Feb 2021 | [React Tutorial](https://www.w3schools.com/react/default.asp) | [w3schools](https://www.w3schools.com)
 ⚙| Jan 2021 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn) | [FreeCodeCamp](https://www.freecodecamp.org)
 ✔| Jan 2021 | [Débutez la programmation avec JavaScript](https://www.technocite.be/index.php/fr/component/detailsform/?form=1345) | [Technocite](https://www.technocite.be)
 ⚙|Dec 2020 | [C# Sharp Basic Algorithm Exercises](https://www.w3resource.com/csharp-exercises/basic-algo/index.php) | [w3resource](https://www.w3resource.com/)
